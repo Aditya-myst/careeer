@@ -104,7 +104,7 @@ const resources = [
   },
   {
     id: 10,
-    title: "Frontend Development",
+    title: "Modern Frontend Development",
     description: "Complete collection of frontend resources including interview preparation, system design, UI libraries, and JavaScript fundamentals.",
     category: "frontend",
     difficulty: "All Levels",
@@ -113,7 +113,7 @@ const resources = [
   },
   {
     id: 11,
-    title: "Web3 Development Guide",
+    title: "Modern Web3 Development Guide",
     description: "welcome here ,Curated collection of Web3 resources covering blockchain development, smart contracts, and foundational concepts.",
     category: "web3",
     difficulty: "Advanced",
